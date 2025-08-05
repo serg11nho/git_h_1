@@ -9,7 +9,7 @@ https://github.com/serg11nho/git_h_1
 https://github.com/serg11nho/git_h_2
 
 ### REPO 3
-https://github.com/serg11nho/git_h_3\
+https://github.com/serg11nho/git_h_3
 
 ### REPO 4
 https://github.com/serg11nho/git_h_4
